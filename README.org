@@ -1,0 +1,10 @@
+#+title: sdl2_ttf
+
+This is an Arch package to fix the way SDL2 displays emojis, specifically in Lem.
+
+* Install
+#+begin_src bash
+git clone https://github.com/garlic0x1/sdl2_ttf
+cd sdl2_ttf
+makepkg -si
+#+end_src
